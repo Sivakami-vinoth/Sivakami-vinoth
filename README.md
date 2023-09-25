@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sivakami-vinoth
 - 👀 I’m interested in DevOps and Cloud Computing
 - 🌱 I’m currently learning AWS, Azure and DevOps Tools(Git, Docker, Kubernetes, Jenkins, Ansible and Terraform)
-- 💞️ I’m looking to Restart my career Journey
+- 💞️ I’m looking for an opportunity to Restart my career Journey
 - 📫 my linkedin profile->https://www.linkedin.com/in/sivakami-vinoth-b38576137//
 
 <!---
